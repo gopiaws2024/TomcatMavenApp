@@ -7,7 +7,7 @@
     <version>2.0</version>
     <packaging>war</packaging>
 
-    <Gopi>TomcatMavenApp</Gopi>
+    <user>TomcatMavenApp</user>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
